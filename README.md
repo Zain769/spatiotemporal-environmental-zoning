@@ -30,3 +30,6 @@ Feature Standardization
 K-Means Clustering
         ↓
 Environmental Zones
+
+## Dataset
+The dataset has been downloaded from kaggle
