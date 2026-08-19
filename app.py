@@ -693,7 +693,7 @@ th {{
 
     <h1>
         <i class="fa-solid fa-leaf" aria-hidden="true"></i>
-        Spatiotemporal Environmental Zoning of Rural Landscapes Using GIS and Unsupervised Machine Learning
+        Spatiotemporal Environmental Zoning of Rural Landscapes Using Unsupervised Machine Learning
     </h1>
 
 </div>
@@ -1047,20 +1047,6 @@ th {{
         not as the prediction target.
 
     </p>
-
-
-    <h3>
-        Technology Stack
-    </h3>
-
-    <p class="description">
-
-        Python • Pandas • Scikit-learn • Folium
-        • Matplotlib • GIS • Remote Sensing
-
-    </p>
-
-
     <h3>
         Interactive Map
     </h3>
